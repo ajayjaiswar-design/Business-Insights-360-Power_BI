@@ -73,7 +73,7 @@ This project demonstrates the power of transforming raw, multi-source data into 
 
 ## 🌐 Live Dashboard
 
-[Explore the Interactive Business Intelligence Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWY5OTUwOGUtYmY5YS00MGJhLTg1YWMtZDIwYjI1YzkwYTViIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+Explore the Interactive [Business Intelligence Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWY5OTUwOGUtYmY5YS00MGJhLTg1YWMtZDIwYjI1YzkwYTViIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ---
 
