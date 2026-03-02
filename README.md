@@ -79,4 +79,4 @@ Explore the Interactive [Business Intelligence Dashboard](https://app.powerbi.co
 
 ## 🎥 Video Presentation
 
-(Add Video Walkthrough URL Here)
+[Watch](https://youtu.be/mvkFD8TSwUA) the Project Walkthrough
